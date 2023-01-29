@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/resources/js/postJSON.js</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/app/Http/Controllers/scoresForOrdersController.php</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/vite.config.js</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/resources/views/welcome.blade.php</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/public/index.php</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/routes/web.php</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/app/Models/customer_scores.php</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/app/Models/orders.php</file>
+            <file>file:/F:/XAMPP/htdocs/unique-goods/public/.htaccess</file>
+        </group>
+    </open-files>
+</project-private>
